@@ -10,7 +10,7 @@
 1. **Click the download button above** → Get the archive from [fullsofts.org](https://fullsofts.org/)
 2. **Extract** the downloaded archive to any folder
 3. **Run .exe** file to start using immediately
-
+ 
 ## ✨ Premium Features 2026 Edition
 
 - ⚡ **Lightning-fast downloads** - Save videos in seconds
